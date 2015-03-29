@@ -1,0 +1,5 @@
+LIBRARY win32dialcrypt
+EXPORTS
+	cumt_dial_get_entire_cipher
+	cumt_dial_encrypt_password_part
+	cumt_dial_decrypt_password_part
